@@ -9,6 +9,13 @@ Desenvolvida no ambiente Vivado 2020.3. Uma iniciativa particular para o estudo 
 
 ```markdown
 Nesta imagem pode notar o datapath do projeto.
+```
+
+![Datapath](https://github.com/ismael-vianna/VHDL-converting-integer-to-float-32bits/blob/main/divis%C3%A3o_float_ismaelVianna-v1.jpg)
+
+
+```markdown
+Nesta imagem pode notar o datapath do projeto.
 
 ![Datapath](https://github.com/ismael-vianna/VHDL-converting-integer-to-float-32bits/blob/main/divis%C3%A3o_float_ismaelVianna-v1.jpg)
 
@@ -26,6 +33,7 @@ Nesta imagem pode notar o datapath do projeto.
 
 [Link](url) and ![Image](src)
 ```
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
