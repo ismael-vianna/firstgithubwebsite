@@ -13,7 +13,7 @@ Nesta imagem abaixo pode notar o datapath do projeto.
 A palavra **A** de 32 bits é convertida numa palavra **ULA_OUT** de 32 bits que representa o número float.
 ```
 
-![Image](.../VHDL-converting-integer-to-float-32bits/blob/main/divis%C3%A3o_float_ismaelVianna-v1.jpg)
+![Image](https://github.com/ismael-vianna/VHDL-converting-integer-to-float-32bits/blob/main/divis%C3%A3o_float_ismaelVianna-v1.jpg)
 
 ```markdown
 
